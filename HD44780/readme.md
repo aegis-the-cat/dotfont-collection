@@ -1,5 +1,7 @@
 # HD44780 
 
+![tittle](title.png)
+
 ```
 Font metadata:
 Name:        HD44780
@@ -13,6 +15,4 @@ Monospaced font that uses bitmap from Hitachi symbol displays, like LCD1602.
 
 Contains all* symbols from display SGROM (by dataseets), and some more custom symbols.
 
-![Example Latin](example_eng.png)
-
-![Example Cyrillic](example_cyr.png)
+![Example](example.png)
